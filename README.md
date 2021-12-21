@@ -1,0 +1,1 @@
+# a-software-to-show-all-transactions-and-discount-with-values-detection
